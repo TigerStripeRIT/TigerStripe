@@ -1,0 +1,9 @@
+Building TigerStripe
+
+See doc/readme-qt.rst for instructions on building TigerStripe-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TigerStripe.
+
+See doc/build-*.txt for instructions on building tigerstriped,
+the intended-for-services, no-graphical-interface, reference
+implementation of TigerStripe.

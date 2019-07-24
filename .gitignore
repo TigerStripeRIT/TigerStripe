@@ -1,0 +1,34 @@
+src/*.exe
+src/tigerstripe
+src/tigerstriped
+src/test_tigerstripe
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.tigerstripe
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+tigerstripe-qt
+TigerStripe-Qt.app
+
+# Unit-tests
+Makefile.test
+tigerstripe-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
