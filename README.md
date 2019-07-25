@@ -1,7 +1,7 @@
 TigerStripe
 ================================
 
-General Information (FaQ): https://tinyurl.com/y6r3oxys
+General Information (FaQ): https://tinyurl.com/y6r3oxys<br/>
 Block Explorer: http://159.89.129.63:3001/
 
 Copyright (c) 2009-2014 Bitcoin Developers<br/>
