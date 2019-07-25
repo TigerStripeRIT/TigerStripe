@@ -1,6 +1,7 @@
 TigerStripe
 ================================
 
+General Information: https://docs.google.com/document/d/1ywuj_l4dwIFvJSqEXc1RWqRq_BV7ge6qBb17S_PFddk/edit?usp=sharing
 Block Explorer: http://159.89.129.63:3001/
 
 Copyright (c) 2009-2014 Bitcoin Developers<br/>
