@@ -1,7 +1,7 @@
 TigerStripe
 ================================
 
-http://www.tigerstripe.org
+http://159.89.129.63:3001/
 
 Copyright (c) 2009-2014 Bitcoin Developers<br/>
 Copyright (c) 2011-2014 Litecoin Developers<br/>
@@ -20,7 +20,7 @@ The rest is the same as Litecoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the TigerStripe client sofware, check the "Releases" tab.
+the TigerStripe client sofware, check the "Releases" tab. You can view the full blockchain at http://159.89.129.63:3001/
 
 License
 -------
