@@ -10,7 +10,7 @@ Copyright (c) 2019 TigerStripe Developers<br/>
 What is TigerStripe?
 ----------------
 
-TigerStripe is a modified version of Litecoin using scrypt as a proof-of-work algorithm.
+TigerStripe is a modified version of Litecoin created specifically for RIT students, faculty and alumni. The cryptocurrency uses scrypt as a proof-of-work algorithm and will remain fully decentralized.
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~84 million total coins
@@ -20,13 +20,13 @@ The rest is the same as Litecoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the TigerStripe client sofware, see http://www.tigerstripe.org.
+the TigerStripe client sofware, check the "Releases" tab.
 
 License
 -------
 
 TigerStripe is released under the terms of the MIT license. See `COPYING` for more
-information or see http://opensource.org/licenses/MIT.
+information.
 
 Development process
 -------------------
