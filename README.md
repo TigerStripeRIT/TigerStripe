@@ -1,7 +1,7 @@
 TigerStripe
 ================================
 
-http://159.89.129.63:3001/
+Block Explorer: http://159.89.129.63:3001/
 
 Copyright (c) 2009-2014 Bitcoin Developers<br/>
 Copyright (c) 2011-2014 Litecoin Developers<br/>
@@ -10,12 +10,10 @@ Copyright (c) 2019 TigerStripe Developers<br/>
 What is TigerStripe?
 ----------------
 
-TigerStripe is a modified version of Litecoin created specifically for RIT students, faculty and alumni. The cryptocurrency uses scrypt as a proof-of-work algorithm and will remain fully decentralized.
+TigerStripe is a modified version of Litecoin created specifically for RIT students, faculty and alumni. The cryptocurrency uses scrypt as a proof-of-work algorithm and will remain fully decentralized, allowing safe, secure, fast, and efficient peer-to-peer transactions.
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~84 million total coins
-
-The rest is the same as Litecoin.
  - 50 coins per block
  - 2016 blocks to retarget difficulty
 
