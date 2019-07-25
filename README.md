@@ -1,4 +1,4 @@
-TigerStripe integration/staging tree
+TigerStripe
 ================================
 
 http://www.tigerstripe.org
